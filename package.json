@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "TSNode register exported as a function",
   "main": "index.js",
+  "dependencies": {
+    "ts-node": ">=0.9.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
